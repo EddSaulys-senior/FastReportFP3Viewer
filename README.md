@@ -2,6 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # FastReport FP3 Viewer (Delphi)
+[![Download (latest)](https://img.shields.io/github/v/release/EddSaulys-senior/FastReportFP3Viewer?label=Download&style=for-the-badge)](https://github.com/EddSaulys-senior/FastReportFP3Viewer/releases/latest/download/FastReportViewer.exe)
 
 Небольшой просмотрщик **готовых** отчетов FastReport в формате `*.fp3` (Prepared Report), с возможностью ассоциации расширения в Windows.
 
